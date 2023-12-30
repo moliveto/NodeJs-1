@@ -38,4 +38,8 @@ const resultadoMultiplicacion = await multiplicacion(a, b);
 const resultadoDivision = await division(a, b);
 ```
 
-### Ejecutar node entrega1.js
+### Ejecutar
+
+```javascript
+node entrega1.js
+```
